@@ -12,7 +12,7 @@ public class No3 {
 
 	public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("阿文...請輸入你討厭哪個數字？");
+        System.out.println("阿文...請輸入你討厭哪個數字？");
         int unlikeNum = sc.nextInt();
         
         int count = 0;

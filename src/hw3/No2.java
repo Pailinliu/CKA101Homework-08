@@ -13,7 +13,7 @@ public class No2 {
         Scanner sc = new Scanner(System.in);
         
         int answer = (int)(Math.random() * 10); // 亂數方法
-        System.out.print("開始猜數字吧！");
+        System.out.println("開始猜數字吧！");
         
         while (true) { // 無窮迴圈
             int guess = sc.nextInt();

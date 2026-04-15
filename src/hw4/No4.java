@@ -20,7 +20,7 @@ public class No4 {
                 {27, 1200}
         };
         
-        System.out.print("請輸入欲借的金額：");
+        System.out.println("請輸入欲借的金額：");
         int amount = sc.nextInt();
         
         System.out.print("有錢可借的員工編號：");
